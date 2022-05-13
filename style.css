@@ -1,0 +1,18 @@
+/*body{
+    background-color: aqua;
+}*/
+#cv-form{
+    /*display:none;*/
+}
+#cv-template{
+    display:none;
+}
+.myimg{
+    border:1px solid rgb(7, 7, 7);
+    border-radius:50%;
+    width:200px;
+    margin:9px;
+}
+.background{
+    background-color: blueviolet;
+}
